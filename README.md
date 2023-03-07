@@ -31,5 +31,7 @@ A Deep Learning Library for Compound and Protein Modeling DTI.
 | :---:   | :---: | :---: | 
 | BindingDB | BindingDB is a public, web-accessible database of measured binding affinities, focusing chiefly on the interactions of protein considered to be drug-targets with small, drug-like molecules. | Regression. Given the target amino acid sequence/compound SMILES string, predict their binding affinity. |
 
+## Outcome
 
+Our model predicts binding affinity across a diverse set of drugs and target groups. Drug-target interaction prediction task aims to predict the interaction activity score in silico given only the accessible compound structural information and protein amino acid sequence.
 
